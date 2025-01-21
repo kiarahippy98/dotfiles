@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = micaela.february9@gmail.com
+	name = Micaela February
